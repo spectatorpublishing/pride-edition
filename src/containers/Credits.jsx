@@ -82,6 +82,8 @@ const CreditsPage = () => {
                             <p>Eve Washington</p>
                             <p>Cassie Wu</p>
                         </div>
+                    </SubDiv>
+                    <SubDiv>
                         <div>
                             <h2>Illustrations</h2>
                             <p>Brenda Huang, Illustrations Editor</p>
