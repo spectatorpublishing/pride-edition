@@ -61,6 +61,7 @@ const CreditsPage = () => {
                         <h2>Design and Development</h2>
                         <p>Erin McNulty, Head of Engineering</p>
                         <p>Cindy Espinosa, Head of Product</p>
+                        <p>Ray Banke, Deputy Illustrations Editor</p>
                     </SubDiv>
 
                     <SubDiv>
@@ -84,7 +85,6 @@ const CreditsPage = () => {
                         <div>
                             <h2>Illustrations</h2>
                             <p>Brenda Huang, Illustrations Editor</p>
-                            <p>Ray Banke, Deputy Illustrations Editor</p>
                             <p>Carlos Ochoa, Deputy Illustrations Editor</p>
                             <p>Ashley Jiao, Deputy Illustrations Editor</p>
                             <p>Noelle Hunter</p>
@@ -93,7 +93,7 @@ const CreditsPage = () => {
                             <p>Nicole Yang</p>
                         </div>
                     </SubDiv>
-                    <SubDiv>
+                    {/* <SubDiv>
                         <div>
                             <h2>Copy</h2>
                             <p>Emma Bradbury, Head Copy Editor</p>
@@ -120,7 +120,7 @@ const CreditsPage = () => {
                             <p>Leif Wood</p>
                             <p>Renuka Balakrishnan</p>
                         </div>
-                    </SubDiv>
+                    </SubDiv> */}
                 </Row>
             </Text>
         </Wrapper>
