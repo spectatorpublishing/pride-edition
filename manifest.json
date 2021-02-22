@@ -1,0 +1,15 @@
+{
+  "short_name": "The Eye: Hurston Issue",
+  "name": "The Eye: Hurston Issue",
+  "icons": [
+    {
+      "src": "eye-logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#EB6065",
+  "background_color": "#0D341F"
+}
