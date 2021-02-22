@@ -5,7 +5,8 @@ import { articleData } from '../data/articles';
 import { device } from '../device';
 
 const Main = styled.div`
-    background: rgba(18, 18, 18, 0.9);
+    /* Background Dark Green */
+    background: linear-gradient(0deg, rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), #00843E;
 `;
 
 const Wrapper = styled.div`

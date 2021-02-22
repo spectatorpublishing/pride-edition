@@ -3,8 +3,8 @@ import styled from 'styled-components';
 import { device } from '../device';
 
 const Wrapper = styled.div`
-    background: rgba(18, 18, 18, 0.9);
-    padding: 5rem 0rem;
+    /* Background Dark Green */
+    background: linear-gradient(0deg, rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), #00843E;    padding: 5rem 0rem;
     margin: 0;
 
     h1 {
