@@ -1,9 +1,9 @@
 {
-  "short_name": "The Eye: Hurston Issue",
-  "name": "The Eye: Hurston Issue",
+  "short_name": "2021 Pride Edition - Columbia Daily Spectator",
+  "name": "2021 Pride Edition - Columbia Daily Spectator",
   "icons": [
     {
-      "src": "eye-logo.png",
+      "src": "https://s3.amazonaws.com/year-in-review-assets/CDS_Favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/png"
     }

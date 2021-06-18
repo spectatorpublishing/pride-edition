@@ -3,8 +3,8 @@ import styled from 'styled-components';
 import { device } from '../device';
 
 const Wrapper = styled.div`
-    /* Background Dark Green */
-    background: linear-gradient(0deg, rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), #00843E;    padding: 5rem 0rem;
+    background-color: #8CD2E8;
+    padding: 5rem 0rem;
     margin: 0;
 
     h1 {
@@ -12,13 +12,13 @@ const Wrapper = styled.div`
         font-style: normal;
         font-weight: 900;
         letter-spacing: 0em;
-        color: #40A36E;
+        color: black;
         text-transform: uppercase;
     }
 `;
 
 const Text = styled.div`
-    color: white;
+    color: #5A3A1B;
     text-align: center;
     padding-bottom: 5rem;
 `;

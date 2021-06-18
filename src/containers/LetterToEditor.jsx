@@ -2,77 +2,54 @@ import styled from 'styled-components';
 import { device } from '../device';
 
 const Wrapper = styled.div`
-    background: #0D341F;
+    background: #F3B3C5;
     margin: 0;
     padding: 1rem;
 
     h1 {
-        color: #EB6065;
-        text-align: center;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 900;
+        letter-spacing: 0em;
+        color: black;
         text-transform: uppercase;
+        text-align: center;
     }
 
     @media ${device.mobile} {
         padding: 5rem;
-
-        h1 {
-            margin: 0 0rem;
-            margin-bottom: -1rem;
-            overflow: hidden;
-        }
-
-        h1:before, h1:after {
-            background-color: #EB6065;
-            content: "";
-            display: inline-block;
-            height: 1px;
-            position: relative;
-            vertical-align: middle;
-            width: 50%;
-        }
-
-        h1:before {
-            right: 0.5em;
-            margin-left: -50%;
-        }
-
-        h1:after {
-            left: 0.5em;
-            margin-right: -50%;
-        }
     }
 `;
 
 const ReadMore = styled.div`
-    background-color: #EB6065;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), #55BA36;    
     padding: 1rem 2rem;
-    width: 15rem;
+    width: 20rem;
     margin: auto;
     margin-top: 5rem;
-    color: white;
+    color: #5A3A1B;
     border-radius: 10px;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: .05rem;
     text-align: center;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 `;
 
 const Link = styled.a`
-    color: white;
+    color: #5A3A1B;
     text-decoration: none;
 `;
 
 const Letter = styled.p`
-    color: #F9D2D3;
+    background: white;
+    color: #553820;
     font-family: 'Source Serif Pro', serif;
     padding: 1rem 2rem;
 
     @media ${device.mobile} {
         padding: 3rem 4rem;
         margin: 0;
-        border-right: 1px solid #EB6065;
-        border-left: 1px solid #EB6065;
-        border-bottom: 1px solid #EB6065;
     }
 `;
 
@@ -101,7 +78,7 @@ const LetterToEditor = () => {
             </Letter>
 
             <ReadMore>
-                <Link href="https://www.columbiaspectator.com/eye/" target="__blank">Read More from The Eye</Link>
+                <Link href="https://womenshistorymonth2021.columbiadailyspectator.com/" target="__blank">Read Women's History Month</Link>
             </ReadMore>
         </Wrapper>
     )

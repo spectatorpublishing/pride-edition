@@ -13,6 +13,49 @@ const Wrapper = styled.div`
     @media ${device.tablet} {
         margin: 4rem 0;
     }
+
+    :nth-child(1n) {
+        .text {
+            border-color: red;
+        }
+    }
+
+    :nth-child(2n) {
+        .text {
+            border-color: orange;
+        }
+    }
+
+    :nth-child(3n) {
+        .text {
+            border-color: yellow;
+        }
+    }
+
+    :nth-child(4n) {
+        .text {
+            border-color: green;
+        }
+    }
+
+    :nth-child(5n) {
+        .text {
+            border-color: blue;
+        }
+    }
+
+
+    :nth-child(6n) {
+        .text {
+            border-color: indigo;
+        }
+    }
+
+    :nth-child(7n) {
+        .text {
+            border-color: yellow;
+        }
+    }
 `;
 
 const Image = styled.img`
@@ -26,8 +69,8 @@ const Image = styled.img`
 const Text = styled.div`
     margin-top: 1.5rem;
     padding: 1.5rem 1rem;
-    border: 3px solid #EB6065;
-    color: white;
+    border: 3px solid;
+    color: #101010;
 
     width: 15rem;
 
@@ -64,7 +107,7 @@ const Article = props => {
         <Wrapper>
             <a href={link} target="__blank">
                 <Image src={imgurl} alt="" />
-                <Text>
+                <Text className="text">
                     <Headline>{headline}</Headline>
                     <Byline>{byline}</Byline>
                 </Text>

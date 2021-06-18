@@ -1,12 +1,10 @@
 import styled from 'styled-components';
-import Logo from '../assets/eye-logo.svg';
 import Article from '../components/Article';
 import { articleData } from '../data/articles';
 import { device } from '../device';
 
 const Main = styled.div`
-    /* Background Dark Green */
-    background: linear-gradient(0deg, rgba(18, 18, 18, 0.9), rgba(18, 18, 18, 0.9)), #00843E;
+    background-color: #8CD2E8;
 `;
 
 const Wrapper = styled.div`
@@ -18,22 +16,17 @@ const Wrapper = styled.div`
     }
 `;
 
-const EyeLogo = styled.img`
-    width: 10rem;
-    top: 0;
-    left: 0;
+const Logo = styled.img`
+    width: 15rem;
+    margin: 2rem;
 `;
 
 const Title = styled.h1`
-    font-family: 'Rubik', sans-serif;
-    font-size: 72px;
-    font-style: normal;
-    font-weight: 900;
-    letter-spacing: 0em;
-    color: #40A36E;
-    text-transform: uppercase;
-    margin: 0;
     text-align: center;
+
+    img {
+        width: 50%;
+    }
 `;
 
 const Body = styled.div`
@@ -55,9 +48,11 @@ const ArticleRow = styled.div`
 const FirstFold = () => {
     return (
     <Main>
-        <EyeLogo src={Logo} />
+        <Logo src="https://cds-archives.s3.amazonaws.com/pb/resources/img/spectator-logo.png" />
         <Wrapper>
-            <Title>the hurston issue</Title>
+            <Title>
+                <img src="https://cds-static-hosting.s3.amazonaws.com/pride2.png" alt="Pride Edition" />
+            </Title>
             <Body>
                 <LeadIllo src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WIOCP6NXTRCSZBRTBAXGOOZ5K4.jpg" alt="" />
                 <ArticleRow>
