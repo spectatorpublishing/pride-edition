@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/eye-bhm-issue/static/css/main.79e0c7f9.chunk.css",
-    "main.js": "/eye-bhm-issue/static/js/main.8e7a9c79.chunk.js",
-    "main.js.map": "/eye-bhm-issue/static/js/main.8e7a9c79.chunk.js.map",
-    "runtime-main.js": "/eye-bhm-issue/static/js/runtime-main.90a0ff94.js",
-    "runtime-main.js.map": "/eye-bhm-issue/static/js/runtime-main.90a0ff94.js.map",
-    "static/js/2.9e1f5a28.chunk.js": "/eye-bhm-issue/static/js/2.9e1f5a28.chunk.js",
-    "static/js/2.9e1f5a28.chunk.js.map": "/eye-bhm-issue/static/js/2.9e1f5a28.chunk.js.map",
-    "index.html": "/eye-bhm-issue/index.html",
-    "static/css/main.79e0c7f9.chunk.css.map": "/eye-bhm-issue/static/css/main.79e0c7f9.chunk.css.map",
-    "static/js/2.9e1f5a28.chunk.js.LICENSE.txt": "/eye-bhm-issue/static/js/2.9e1f5a28.chunk.js.LICENSE.txt"
+    "main.css": "/pride-edition/static/css/main.79e0c7f9.chunk.css",
+    "main.js": "/pride-edition/static/js/main.b84a37fc.chunk.js",
+    "main.js.map": "/pride-edition/static/js/main.b84a37fc.chunk.js.map",
+    "runtime-main.js": "/pride-edition/static/js/runtime-main.d50c55f4.js",
+    "runtime-main.js.map": "/pride-edition/static/js/runtime-main.d50c55f4.js.map",
+    "static/js/2.c771e3cd.chunk.js": "/pride-edition/static/js/2.c771e3cd.chunk.js",
+    "static/js/2.c771e3cd.chunk.js.map": "/pride-edition/static/js/2.c771e3cd.chunk.js.map",
+    "index.html": "/pride-edition/index.html",
+    "static/css/main.79e0c7f9.chunk.css.map": "/pride-edition/static/css/main.79e0c7f9.chunk.css.map",
+    "static/js/2.c771e3cd.chunk.js.LICENSE.txt": "/pride-edition/static/js/2.c771e3cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90a0ff94.js",
-    "static/js/2.9e1f5a28.chunk.js",
+    "static/js/runtime-main.d50c55f4.js",
+    "static/js/2.c771e3cd.chunk.js",
     "static/css/main.79e0c7f9.chunk.css",
-    "static/js/main.8e7a9c79.chunk.js"
+    "static/js/main.b84a37fc.chunk.js"
   ]
 }
