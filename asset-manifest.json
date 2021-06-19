@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pride-edition/static/css/main.79e0c7f9.chunk.css",
-    "main.js": "/pride-edition/static/js/main.b84a37fc.chunk.js",
-    "main.js.map": "/pride-edition/static/js/main.b84a37fc.chunk.js.map",
+    "main.js": "/pride-edition/static/js/main.df7ec11a.chunk.js",
+    "main.js.map": "/pride-edition/static/js/main.df7ec11a.chunk.js.map",
     "runtime-main.js": "/pride-edition/static/js/runtime-main.d50c55f4.js",
     "runtime-main.js.map": "/pride-edition/static/js/runtime-main.d50c55f4.js.map",
     "static/js/2.c771e3cd.chunk.js": "/pride-edition/static/js/2.c771e3cd.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d50c55f4.js",
     "static/js/2.c771e3cd.chunk.js",
     "static/css/main.79e0c7f9.chunk.css",
-    "static/js/main.b84a37fc.chunk.js"
+    "static/js/main.df7ec11a.chunk.js"
   ]
 }
