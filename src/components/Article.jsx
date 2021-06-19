@@ -50,12 +50,6 @@ const Wrapper = styled.div`
             border-color: indigo;
         }
     }
-
-    :nth-child(7n) {
-        .text {
-            border-color: yellow;
-        }
-    }
 `;
 
 const Image = styled.img`
