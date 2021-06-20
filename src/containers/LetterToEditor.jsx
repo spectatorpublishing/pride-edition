@@ -27,6 +27,7 @@ const ReadMore = styled.div`
     width: 20rem;
     margin: auto;
     margin-top: 5rem;
+    margin-bottom: 4rem;
     color: #5A3A1B;
     border-radius: 10px;
     font-size: 18px;
