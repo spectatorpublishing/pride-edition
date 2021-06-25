@@ -60,7 +60,7 @@ const CreditsPage = () => {
                 <h1>Credits</h1>
                 <Row>
                     <SubDiv>
-                        <h2>Cooperate Board</h2>
+                        <h2>Corperate Board</h2>
                         <p>Elizabeth Karpen, Managing Editor</p>
                         <p>Sarah Braka, Editor in Chief</p>
                         <p>Tamarah Wallace, Publisher</p>
