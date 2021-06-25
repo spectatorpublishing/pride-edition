@@ -2,7 +2,7 @@
   "name": "pride-edition",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://spectatorpublishing.github.io/pride-edition/",
+  "homepage": "https://pride2021.columbiadailyspectator.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
