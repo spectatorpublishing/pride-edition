@@ -36,12 +36,6 @@ export const articleData = {
             byline: "By Aaron Holmes",
             link: "https://www.columbiaspectator.com/news/2017/09/20/gender-neutral-bathrooms-now-contentious-used-to-be-the-norm-at-columbia/"
         },
-        {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/OCKL6QV7ZVH4LAGSDIBL4GNYVU",
-            headline: "YIR 2016-2017: Students of color, LGBTQ students secure dedicated space in Lerner",
-            byline: "By Aaron Holmes",
-            link: "https://www.columbiaspectator.com/news/2017/04/30/yir-2016-2017-students-of-color-lgbtq-students-secure-dedicated-space-in-lerner/"
-        },
     ],
     "Opinion": [
         {
@@ -51,16 +45,10 @@ export const articleData = {
             link: "https://www.columbiaspectator.com/opinion/2018/11/09/genderfuck-and-the-defense-of-trans-joy/"
         },
         {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/CMAQQKASKVFMBHQJVR5DXIEQNA.jpg",
-            headline: "As spectrum of gender identity at Barnard widens, ‘Women and Culture’ curriculum draws scrutiny",
-            byline: "By Kim Banks",
-            link: "https://www.columbiaspectator.com/opinion/2016/10/06/queer-theory-0/"
-        },
-        {
             imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/R2QHZWJCVVDVJB6T7KDT6UKXUA",
             headline: "A queer theory",
             byline: "By Mya Alexice",
-            link: "https://www.columbiaspectator.com/news/2018/10/25/columbia-affirms-support-for-transgender-community-as-trump-threatens-to-roll-back-protections/"
+            link: "https://www.columbiaspectator.com/opinion/2016/10/06/queer-theory-0/"
         },
         {
             imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/PLTLCBMUSJAWXP6QLQZQVHC47Q.png",
@@ -78,13 +66,13 @@ export const articleData = {
             imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/55Q4YJY2FFGHHOH3ICK3TQ7SCE.gif",
             headline: "Bi the way...",
             byline: "By Gabriel Azevedo Duarte Franco",
-            link: "https://www.columbiaspectator.com/opinion/2017/04/28/queer-and-trans-students-of-color-need-your-support/"
+            link: "https://www.columbiaspectator.com/opinion/2019/09/03/bi-the-way/"
         },
         {
             imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/IBVERTQ4DZBWRKRNYNSRACZKPI.gif",
             headline: "Love wins (*only for the white, cisgender, and gay)",
             byline: "By Kyoko Hirose",
-            link: "https://www.columbiaspectator.com/opinion/2017/04/28/queer-and-trans-students-of-color-need-your-support/"
+            link: "https://www.columbiaspectator.com/opinion/2018/10/11/love-wins-only-for-the-white-cisgender-and-gay/"
         },
         {
             imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NJD72ST5WNF2RLKMST7Z4KPN3U.png",
@@ -157,22 +145,22 @@ export const articleData = {
     ],
     "Arts and Entertainment": [
         {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/O66LCWQZDJGNVPHTL6GVR7VH4M.jpg",
-            headline: "Kosta Karakashyan, CC ’19, on his new dance documentary and the continued struggle of the LGBTQ community in Chechnya",
-            byline: "By Lee Alexander",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2018/11/01/kosta-karakashyan-cc-19-on-his-new-dance-documentary-and-the-continued-struggle-of-the-lgbtq-community-in-chechnya/"
+            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WL62PMVYANC5NGXGWNWITTLXEQ.jpg",
+            headline: "Student musician Wilchai reflects on memory, family in debut single ‘Deluge’",
+            byline: "By Noah Bullwinkle",
+            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/23/student-musician-wilchai-reflects-on-memory-family-in-debut-single-deluge/"
         },
         {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/F2E5TKTNRFFKNOCXDCK3IX3USU",
-            headline: "Last Call: Columbia's Queer Women and the End of the Lesbian Bar Era",
-            byline: "By Malina Gulino",
-            link: "https://www.columbiaspectator.com/eye/2016/03/29/death-lesbian-bar/"
+            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KAZLAD3SGVDGXNFJ3TGLI6KLI4.jpg",
+            headline: "NOMADS delivers queer romance and catharsis with ‘Anointed with Gasoline’",
+            byline: "By Sophie Craig",
+            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/22/nomads-delivers-queer-romance-and-catharsis-with-anointed-with-gasoline/"
         },
         {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/YFBNTANZAFDNJNLUOHCMK3XR7U.jpg",
-            headline: "Yevgeniy Fiks’ exhibit documents a gay Soviet Moscow and presents an alternative history",
-            byline: "By Jasmine Sabadosa",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2019/09/25/yevgeniy-fiks-exhibit-documents-a-gay-soviet-moscow-and-presents-an-alternative-history/"
+            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ITO6OTZVI5AL7GDEOQ7ESWQFZE.jpeg",
+            headline: "Class of 2021 visual arts students present a virtual senior thesis show",
+            byline: "By Vincent Hou",
+            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/05/04/class-of-2021-visual-arts-students-present-a-virtual-senior-thesis-show/"
         },
         {
             imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/LLSEFVNA2FGFBKYNL345PEYJOI.jpg",
@@ -193,61 +181,25 @@ export const articleData = {
             link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/24/ahead-of-the-curve-celebrates-the-rise-of-leading-lesbian-magazine-curve/"
         },
         {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SI5DCV3YBNBL5CFAUGKGWGTOSQ.jpg",
-            headline: "‘Come As You Are’ shorts program showcases stories of authenticity, identity, and self-acceptance",
-            byline: "By Victoria Irizarry Sanabria",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/23/come-as-you-are-shorts-program-showcases-stories-of-authenticity-identity-and-self-acceptance/"
+            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/O66LCWQZDJGNVPHTL6GVR7VH4M.jpg",
+            headline: "Kosta Karakashyan, CC ’19, on his new dance documentary and the continued struggle of the LGBTQ community in Chechnya",
+            byline: "By Lee Alexander",
+            link: "https://www.columbiaspectator.com/arts-and-entertainment/2018/11/01/kosta-karakashyan-cc-19-on-his-new-dance-documentary-and-the-continued-struggle-of-the-lgbtq-community-in-chechnya/"
         },
         {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VIIEAPOT75F65CHGMY5HRUGZPA.jpg",
-            headline: "Director Luchina Fisher presents the resilience and joyfulness of a Black transgender woman in ‘Mama Gloria’",
-            byline: "By Victoria Irizarry Sanabria",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/11/director-luchina-fisher-presents-the-resilience-and-joyfulness-of-a-black-transgender-woman-in-mama-gloria/"
+            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/F2E5TKTNRFFKNOCXDCK3IX3USU",
+            headline: "Last Call: Columbia's Queer Women and the End of the Lesbian Bar Era",
+            byline: "By Malina Gulino",
+            link: "https://www.columbiaspectator.com/eye/2016/03/29/death-lesbian-bar/"
         },
         {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NPJJBAK75REY7AVMN2TBAV7YWY.jpg",
-            headline: "‘Reassembling Identity’ panel discusses online communities as safe spaces for minorities and ethical sex positivity",
-            byline: "By Jane Loughman",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/09/reassembling-identity-panel-discusses-online-communities-as-safe-spaces-for-minorities-and-ethical-sex-positivity/"
-        },
-        {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WL62PMVYANC5NGXGWNWITTLXEQ.jpg",
-            headline: "Student musician Wilchai reflects on memory, family in debut single ‘Deluge’",
-            byline: "By Noah Bullwinkle",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/23/student-musician-wilchai-reflects-on-memory-family-in-debut-single-deluge/"
-        },
-        {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/KAZLAD3SGVDGXNFJ3TGLI6KLI4.jpg",
-            headline: "NOMADS delivers queer romance and catharsis with ‘Anointed with Gasoline’",
-            byline: "By Sophie Craig",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/03/22/nomads-delivers-queer-romance-and-catharsis-with-anointed-with-gasoline/"
-        },
-        {
-            imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ITO6OTZVI5AL7GDEOQ7ESWQFZE.jpeg",
-            headline: "Class of 2021 visual arts students present a virtual senior thesis show",
-            byline: "By Vincent Hou",
-            link: "https://www.columbiaspectator.com/arts-and-entertainment/2021/05/04/class-of-2021-visual-arts-students-present-a-virtual-senior-thesis-show/"
+            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/YFBNTANZAFDNJNLUOHCMK3XR7U.jpg",
+            headline: "Yevgeniy Fiks’ exhibit documents a gay Soviet Moscow and presents an alternative history",
+            byline: "By Jasmine Sabadosa",
+            link: "https://www.columbiaspectator.com/arts-and-entertainment/2019/09/25/yevgeniy-fiks-exhibit-documents-a-gay-soviet-moscow-and-presents-an-alternative-history/"
         },
     ],
     "The Eye": [
-        {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/WO4Y7U3Z6JFKVDJ5XEC6MFUHYU",
-            headline: "Living in Color",
-            byline: "By Ana Espinoza",
-            link: "https://www.columbiaspectator.com/eye/2015/10/07/living-color/"
-        },
-        {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/62IMU26KO5HNZD2RP7X7PT2SZA",
-            headline: "Passing By",
-            byline: "By Kara Schechtman",
-            link: "https://www.columbiaspectator.com/eye/2015/10/14/passing/"
-        },
-        {
-            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/RELYJXZ6DFB3HMQ47VRGKOYI7Q",
-            headline: "Finding a Place in Columbia's LGBTQ Scene",
-            byline: "By Zachariah Crutchfield",
-            link: "https://www.columbiaspectator.com/eye/2016/10/25/fitting-finding-place-columbias-lgbtq-scene/"
-        },
         {
             imgurl: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SIMFMLIRCBBOZATJLBEPOYSLNU.jpg",
             headline: "(Not) an Isolated Experience: Students Navigating Gender Identity in Quarantine",
@@ -265,6 +217,24 @@ export const articleData = {
             headline: "Eva Westphal on Songwriting, Authenticity, and Caramel Coffee",
             byline: "By Sophie Durone",
             link: "https://www.columbiaspectator.com/the-eye/2021/04/08/eva-westphal-on-songwriting-authenticity-and-caramel-coffee/"
+        },
+        {
+            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/WO4Y7U3Z6JFKVDJ5XEC6MFUHYU",
+            headline: "Living in Color",
+            byline: "By Ana Espinoza",
+            link: "https://www.columbiaspectator.com/eye/2015/10/07/living-color/"
+        },
+        {
+            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/62IMU26KO5HNZD2RP7X7PT2SZA",
+            headline: "Passing By",
+            byline: "By Kara Schechtman",
+            link: "https://www.columbiaspectator.com/eye/2015/10/14/passing/"
+        },
+        {
+            imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/RELYJXZ6DFB3HMQ47VRGKOYI7Q",
+            headline: "Finding a Place in Columbia's LGBTQ Scene",
+            byline: "By Zachariah Crutchfield",
+            link: "https://www.columbiaspectator.com/eye/2016/10/25/fitting-finding-place-columbias-lgbtq-scene/"
         },
         {
             imgurl: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/ZNRQ5DMHZNDPTDNVBZQDYD5NVA.png",

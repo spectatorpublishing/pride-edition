@@ -65,7 +65,7 @@ const FirstFold = () => {
                 <img src="https://cds-static-hosting.s3.amazonaws.com/pride2.png" alt="Pride Edition" />
             </Title>
             <Body>
-                <LeadIllo src="https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WIOCP6NXTRCSZBRTBAXGOOZ5K4.jpg" alt="" />
+                <LeadIllo src="https://cds-static-hosting.s3.amazonaws.com/LGBT+Illustration.jpg" alt="" />
 
             </Body>
         </Wrapper>
