@@ -77,7 +77,7 @@ const LetterToEditor = () => {
             <br></br>
             Lizzie Karpen, Managing Editor
             <br></br>
-            Sarah Braka, Editor in Chied
+            Sarah Braka, Editor in Chief
             </Letter>
 {/* 
             <ReadMore>
